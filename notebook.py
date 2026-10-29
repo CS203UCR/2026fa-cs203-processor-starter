@@ -11,7 +11,7 @@ import requests
 import re
 import copy
 import pandas
-from autograde import *
+#from autograde import *
 import glob
 from IPython.core.display import HTML
 import delegate_function
